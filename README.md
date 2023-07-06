@@ -6,5 +6,5 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jemperador09/osticket-prereqs)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jemperador09/configure-ad)
 
